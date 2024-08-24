@@ -26,7 +26,7 @@ em{
   font-style: italic;
 }
 .main-content {
-  background: #f7f7f7;
+  background: #ffffff;
 }
 
 .main-content .container-main {
@@ -40,16 +40,14 @@ em{
 }
 
 .container-main .block-main .content-main {
-  background: #fff none repeat scroll 0 0;
+  background: #ffffff00 none repeat scroll 0 0;
   display: inline-block;
   width: 100%;
 }
 
-
-
 .journal-txt h4 a {
   display: block;
-  font-size: 9px;
+  font-size: 19px;
   line-height: 24px;
   margin: 0 0 13px 0;
   font-weight: 500;
